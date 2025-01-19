@@ -848,6 +848,7 @@ carney
 carpal
 carped
 carpel
+carper
 carpet
 carrel
 carrot
@@ -951,8 +952,10 @@ choked
 choker
 choose
 choppy
+choral
 chorus
 chosen
+chowed
 chrome
 chubby
 chunky
@@ -1129,6 +1132,7 @@ detest
 detour
 device
 dialog
+dicing
 diesel
 differ
 digest
@@ -1204,6 +1208,7 @@ emerge
 empire
 employ
 enable
+enamel
 encase
 ending
 endure
@@ -1260,6 +1265,7 @@ famous
 farina
 faring
 farmer
+fasten
 faster
 father
 fatten
@@ -1315,6 +1321,7 @@ folder
 follow
 foment
 fondly
+fooled
 forage
 forced
 forded
@@ -1405,6 +1412,7 @@ grassy
 gravel
 grazed
 grease
+greedy
 gritty
 groove
 groper
@@ -1423,6 +1431,7 @@ gurgle
 gutter
 gyrate
 hacker
+hailed
 halted
 halter
 hammer
@@ -1436,6 +1445,7 @@ harbor
 harder
 hardly
 hassle
+hasten
 hating
 hatred
 having
@@ -1453,6 +1463,7 @@ heaven
 hedged
 heeded
 height
+helium
 helmet
 helped
 hemmed
@@ -1464,12 +1475,14 @@ hermit
 heroes
 heroic
 heroin
+hewing
 hexing
 hidden
 hiding
 higher
 highly
 hiking
+hinder
 hiring
 hitter
 hobbit
@@ -1479,6 +1492,7 @@ holler
 hollow
 honest
 honour
+hooded
 hooked
 hoping
 horned
@@ -1559,6 +1573,7 @@ jungle
 junior
 keeper
 kernel
+kettle
 kicked
 kidney
 killed
@@ -1572,6 +1587,7 @@ kitten
 knight
 knives
 knobby
+kosher
 labour
 lacked
 lackey
@@ -1590,6 +1606,7 @@ lasted
 laster
 lastly
 lately
+latent
 latest
 lather
 latter
@@ -1600,6 +1617,7 @@ lawyer
 laxity
 laying
 layout
+lazily
 leader
 league
 leaked
@@ -1649,14 +1667,17 @@ locked
 locker
 locket
 logged
+logger
 lonely
 longed
 longer
 longly
 looked
+loomed
 looped
 looper
 loosen
+lopper
 losing
 losses
 lotion
@@ -1688,6 +1709,7 @@ mallet
 manage
 manger
 mangle
+manned
 manner
 manual
 marble
@@ -1726,6 +1748,7 @@ meshed
 messed
 method
 metric
+mettle
 mickle
 middle
 midget
@@ -1733,6 +1756,8 @@ mighty
 mildew
 milker
 milled
+millet
+minder
 mingle
 mining
 minute
@@ -1754,6 +1779,7 @@ modern
 modest
 modify
 module
+molded
 moment
 monkey
 months
@@ -1765,6 +1791,7 @@ morose
 mostly
 mother
 motion
+mottle
 mounty
 mouser
 mouthy
@@ -1797,6 +1824,7 @@ naught
 nausea
 nearby
 nearly
+neaten
 neatly
 necked
 nectar
@@ -1822,8 +1850,10 @@ novels
 novice
 nozzle
 nudged
+nugget
 number
 nurses
+nutmeg
 nuzzle
 object
 obsess
@@ -1836,6 +1866,7 @@ octopi
 offers
 office
 offset
+oilman
 oldest
 onions
 online
@@ -1848,6 +1879,7 @@ optics
 option
 oracle
 orange
+ordain
 orders
 organs
 origin
@@ -1871,6 +1903,7 @@ pallet
 pallid
 palmed
 panels
+panned
 panted
 pantry
 papers
@@ -1937,6 +1970,7 @@ pickup
 picnic
 pigeon
 piglet
+piling
 pillar
 pillow
 pimple
@@ -2001,6 +2035,7 @@ pouted
 powder
 praise
 prance
+prayed
 prayer
 preach
 prefer
@@ -2065,6 +2100,8 @@ racial
 racing
 racism
 racist
+racked
+racket
 radial
 radian
 radius
@@ -2121,6 +2158,7 @@ refuge
 refund
 refuse
 regain
+regale
 regard
 regime
 region
@@ -2181,6 +2219,7 @@ riding
 rigged
 ringed
 ringer
+rinsed
 ripped
 ripper
 rising
@@ -2274,6 +2313,7 @@ second
 secret
 sector
 secure
+seduce
 seeing
 seemed
 seized
@@ -2290,6 +2330,7 @@ sentry
 sequel
 serial
 series
+sermon
 served
 server
 sesame
@@ -2342,9 +2383,12 @@ sipper
 sister
 sitter
 sketch
+skewed
+skewer
 skiing
 skinny
 sleazy
+sledge
 sleepy
 sleeve
 sleuth
@@ -2356,9 +2400,11 @@ sliver
 slowed
 slower
 slowly
+sludge
 smiled
 smiler
 smooth
+smudge
 sneaky
 sneeze
 snored
@@ -2374,6 +2420,7 @@ solely
 solved
 sonnet
 sooner
+soothe
 sorrow
 sorted
 sought
@@ -2473,6 +2520,7 @@ suffer
 suited
 suiter
 sullen
+summed
 summer
 summit
 summon
@@ -2489,6 +2537,7 @@ surged
 surger
 surrey
 survey
+sussed
 suture
 swiped
 switch
@@ -2501,9 +2550,12 @@ tablet
 tackle
 tactic
 tagged
+tailed
+tailor
 taking
 talent
 talked
+talker
 taller
 tamped
 tamper
@@ -2531,6 +2583,7 @@ tended
 tender
 tendon
 tennis
+tensor
 tenure
 terror
 tested
@@ -2579,7 +2632,9 @@ tooled
 tooted
 tooter
 topped
+topper
 torque
+torrid
 tossed
 touche
 toured
@@ -2607,6 +2662,7 @@ triple
 tripod
 triton
 trophy
+tropic
 trough
 troupe
 trowel
@@ -2615,6 +2671,7 @@ trusty
 trying
 tubing
 tucked
+tugged
 tuning
 tunnel
 turgid
@@ -2666,6 +2723,7 @@ verify
 verily
 verses
 versus
+vesper
 vessel
 viable
 victim
